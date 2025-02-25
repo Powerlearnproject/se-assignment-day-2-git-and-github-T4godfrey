@@ -2,10 +2,15 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18370202&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
-Version Control Concepts: Version control is a system for tracking changes to files (especially code) over time. Core ideas include repositories (storage for project files), commits (snapshots of changes), branching (parallel development paths), and merging (integrating changes). It ensures history is preserved and collaboration is seamless.
-Why GitHub is Popular: GitHub builds on Git, a distributed version control system, adding a user-friendly interface, cloud hosting, and collaboration tools like pull requests and issues. Its community features and integration with development workflows make it a go-to for managing code versions.
-Maintaining Project Integrity: Version control prevents data loss, tracks who changed what, and enables rollbacks to stable states, ensuring consistency across team efforts.
-Setting Up a New GitHub Repository
+ Version control is a system for tracking changes to files over time.Supports diffrent actions like, repositories ,commits, branching,and merging. It ensures history is preserved and collaboration is seamless.
+ 
+Popularity.
+Being a distributed version control system.
+Having a user-friendly interface suppoorting cloud hosting for easy access.
+
+Project Integrity.
+Version control prevents data loss as the plartform for storage of the project is no localised.
+Has support for and enables rollbacks to stable states, ensuring consistency across team efforts.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 Process: 
